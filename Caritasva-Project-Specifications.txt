@@ -12,7 +12,8 @@ ____________
 Scope of Development Project
 ____________________________
 
-	CaritasVA project is basically updating the furniture details into an internet-based application ,so that the client can know the details of furnitures for pickup from donors.
+	CaritasVA project is basically updating the furniture details into an internet-based application ,
+	so that the client can know the details of furnitures for pickup from donors.
 
 	The project is specifically designed for the use of CaritasVA employees and funrniture donors.The product
 	will work as a complete user    interface for CaritasVA and furniture donors.CaritasVA project can be used 
