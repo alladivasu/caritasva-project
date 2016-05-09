@@ -1,10 +1,11 @@
-                                                              Caritas Virginia Project 
+                                                   Caritas Virginia Project 
 
----------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------
 Introduction 
 ____________
 
-	The main objective of this document is to illustrate the requirements of the project CaritasVA.The document gives the detailed description of the both functional and non-functional requirements proposed by the client.
+	The main objective of this document is to illustrate the requirements of the project CaritasVA.The document
+	gives the detailed description of the both functional and non-functional requirements proposed by the client.
 	The purpose of this project is to provide a friendly environment to maintain the details of furniture. 
 
 
@@ -13,8 +14,9 @@ ____________________________
 
 	CaritasVA project is basically updating the furniture details into an internet-based application ,so that the client can know the details of furnitures for pickup from donors.
 
-	The project is specifically designed for the use of CaritasVA employees and funrniture donors.The product will 
-	work as a complete user    interface for CaritasVA and furniture donors.CaritasVA project can be used by any CaritasVA employee to manage furniture details and can be used by any exixting or new donor for donations.    
+	The project is specifically designed for the use of CaritasVA employees and funrniture donors.The product
+	will work as a complete user    interface for CaritasVA and furniture donors.CaritasVA project can be used 
+	by any CaritasVA employee to manage furniture details and can be used by any exixting or new donor for donations.    
  	
 	The language used for developing the project is AngularJS.
 
@@ -22,9 +24,9 @@ ____________________________
 User classes and characteristics
 ________________________________
 
-	The project provides different types of services based on the type of users[CaritasVA employee/Donor].The
-	CaritasVa employee will be acting as the controller and they will have all the privilages of an administrator. 
-	The donors can be anyone who would like to donate furniture.
+	The project provides different types of services based on the type of users[CaritasVA employee/Donor].
+	The CaritasVa employee will be acting as the controller and they will have all the privilages of an 
+	administrator.The donors can be anyone who would like to donate furniture.
 
 The features that are available for donors are:
 
@@ -58,13 +60,20 @@ ____________
 
 Software Configurations:
 
-This software package is developed using AngularJS as front end which is an open-source web application framework mainly maintained by Google. MongoDB as the back end to store the database,MongoDB is an open-source document database.
+This software package is developed using AngularJS as front end which is an open-source web application framework 
+mainly maintained by Google. MongoDB as the back end to store the database,MongoDB is an open-source document 
+database.
 
 
 Data Requirement
 _________________
 
-	The inputs consist of the query to the database and the output consists of the solutions for the query. The output also includes the employee receiving the dtails of the furniture and donor details. In this project the input will be the queries as fired by the donors like submitting the form with details about donor infromation and furiniture details for donation. Now the output will be visible when the employee requests the server to get details of the donations in the form of time ,date and which are currently in the queue for pickup. 
+	The inputs consist of the query to the database and the output consists of the solutions for the query.The
+	output also includes the employee receiving the dtails of the furniture and donor details. In this project 
+	the input will be the queries as fired by the donors like submitting the form with details about donor
+	infromation and furiniture details for donation. Now the output will be visible when the employee requests 
+	the server to get details of the donations in the form of time ,date and which are currently in the queue 
+	for pickup. 
 	
 	
 External Interface Requirements
@@ -72,7 +81,9 @@ _______________________________
 
 (Graphical User Interface)
 
-	The software provides good graphical interface for the donor and the employee can operate on the system,performing the required task such as submitting the donation form with required details,retrieving the pickup orders from the donors.
+	The software provides good graphical interface for the donor and the employee can operate on the system,
+	performing the required task such as submitting the donation form with required details,retrieving the 
+	pickup orders from the donors.
 
 >> It allows the employee to view quick reports when task is done.
 
@@ -96,15 +107,15 @@ Performanace Requirement
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
 >> The performance of the system should be fast and accurate.
->> The system should be able to handle large amount of data. Thus it should accommodate high number of donations and 
-donors without any fault.
+>> The system should be able to handle large amount of data. Thus it should accommodate high number of donations 
+   and donors without any fault.
 
 
 Safety Requirement
 ~~~~~~~~~~~~~~~~~~
 
-The database may get crashed at any certain time due to virus or operating system failue.Therefore, it is required to
-take the database backup so that the database is not lost.
+The database may get crashed at any certain time due to virus or operating system failue.Therefore, it is required 
+to take the database backup so that the database is not lost.
 
 Security Requirement
 ~~~~~~~~~~~~~~~~~~~~
@@ -117,14 +128,16 @@ Requirement attribites
 ~~~~~~~~~~~~~~~~~~~~~~
 
 >> There may be multiple donors donating,but they cannot do changes.
->> The quality of the database is maintained in such a way so that it can be very user friendly to all the donors of the database.
+>> The quality of the database is maintained in such a way so that it can be very user friendly to all the donors of 
+   the database.
 >> The project should be open source.
 
 
 User Requirement
 ________________
 
-	The users of the system are donors and CaritasVA employees of the project who act as administrator to maintain the system.The members are assumed to have basic knowledge of the computers and internet browsing.The proper user interface, FAQs Page must be sufficient to educate the donors on how to use the system without any problems. 
+	The users of the system are donors and CaritasVA employees of the project who act as administrator to maintain 
+	the system.The members are assumed to have basic knowledge of the computers and internet browsing.The proper user
+	interface, FAQs Page must be sufficient to educate the donors on how to use the system without any problems. 
 
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
+---------------------------------------------------------------------------------------------------------------------------
