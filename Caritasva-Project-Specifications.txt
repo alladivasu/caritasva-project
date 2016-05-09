@@ -4,7 +4,8 @@
 Introduction 
 ____________
 
-	The main objective of this document is to illustrate the requirements of the project CaritasVA.The document gives the detailed description of the both functional and non-functional requirements proposed by the client.The purpose of this project is to provide a friendly environment to maintain the details of furniture. 
+	The main objective of this document is to illustrate the requirements of the project CaritasVA.The document gives the detailed description of the both functional and non-functional requirements proposed by the client.
+	The purpose of this project is to provide a friendly environment to maintain the details of furniture. 
 
 
 Scope of Development Project
