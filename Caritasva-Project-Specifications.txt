@@ -12,7 +12,8 @@ ____________________________
 
 	CaritasVA project is basically updating the furniture details into an internet-based application ,so that the client can know the details of furnitures for pickup from donors.
 
-	The project is specifically designed for the use of CaritasVA employees and funrniture donors.The product will work as a complete user    interface for CaritasVA and furniture donors.CaritasVA project can be used by any CaritasVA employee to manage furniture details and can be used by any exixting or new donor for donations.    
+	The project is specifically designed for the use of CaritasVA employees and funrniture donors.The product will 
+	work as a complete user    interface for CaritasVA and furniture donors.CaritasVA project can be used by any CaritasVA employee to manage furniture details and can be used by any exixting or new donor for donations.    
  	
 	The language used for developing the project is AngularJS.
 
@@ -20,7 +21,9 @@ ____________________________
 User classes and characteristics
 ________________________________
 
-	The project provides different types of services based on the type of users[CaritasVA employee/Donor].The CaritasVa employee will be acting as the controller and they will have all the privilages of an administrator. The donors can be anyone who would like to donate furniture.
+	The project provides different types of services based on the type of users[CaritasVA employee/Donor].The
+	CaritasVa employee will be acting as the controller and they will have all the privilages of an administrator. 
+	The donors can be anyone who would like to donate furniture.
 
 The features that are available for donors are:
 
@@ -92,13 +95,15 @@ Performanace Requirement
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
 >> The performance of the system should be fast and accurate.
->> The system should be able to handle large amount of data. Thus it should accommodate high number of donations and donors without any fault.
+>> The system should be able to handle large amount of data. Thus it should accommodate high number of donations and 
+donors without any fault.
 
 
 Safety Requirement
 ~~~~~~~~~~~~~~~~~~
 
-The database may get crashed at any certain time due to virus or operating system failue.Therefore, it is required to take the database backup so that the database is not lost.
+The database may get crashed at any certain time due to virus or operating system failue.Therefore, it is required to
+take the database backup so that the database is not lost.
 
 Security Requirement
 ~~~~~~~~~~~~~~~~~~~~
